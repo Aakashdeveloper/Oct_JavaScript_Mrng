@@ -6,14 +6,14 @@ Ecma 7
 > variable
 > DataTypes
 > Operations
-//////////////////////////////////
 > String
 > Math
+> String literals
+> github
+//////////////////////////////////
 > localstorage
 > sessionStorage
 > cookies
-> String literals
-> github
 > condition
 > if else
 > ternery Operations
