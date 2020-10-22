@@ -20,11 +20,11 @@ Ecma 7
 > Date
 > array
 > regex
-//////////////////////////////////
 > loops
 > Functions
+> let, const
+//////////////////////////////////
 > Es6
-    > let, const
     > maps,filter
 > Clousers
 > Hoisting
@@ -56,3 +56,5 @@ Ecma 7
 > Weather application
 > ajax
 > Baisc Jquery
+
+https://nodejs.org/en/

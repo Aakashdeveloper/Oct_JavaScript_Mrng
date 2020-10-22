@@ -58,3 +58,20 @@ do{
     i++
 }
 while(i<5)
+
+/////for of/////
+var city = ["Venice","Paris","NewYork","London"]
+for(mycity of city){
+    console.log(mycity)
+}
+
+var city = ["Venice","Paris",["Red","Yellow","Orange"],"NewYork","London"]
+for(mycity of city){
+    if(Array.isArray(mycity)){
+        for(cities of mycity){
+            console.log(cities)
+        }
+    }else{
+        console.log(mycity)
+    }
+}
