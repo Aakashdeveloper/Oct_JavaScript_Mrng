@@ -1,0 +1,19 @@
+var movies = [
+    {
+        "name":"Blood Diamond",
+        "rating":4,
+        "lang":"English"
+    },
+    {
+        "name":"Jab We Met",
+        "rating":4.5,
+        "lang":"Hindi"
+    },
+    {
+        "name":"Avenger",
+        "rating":4.5,
+        "lang":"English"
+    }
+]
+
+movies[1].name
