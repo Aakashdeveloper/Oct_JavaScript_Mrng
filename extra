@@ -39,10 +39,10 @@ Ecma 7
     > classes
 > DoM
 > Calc
-//////////////////////////////////
 > Geolocation
 > Form validation
 > Event
+//////////////////////////////////
 > currenyConvertor
 > promis
 > async await
@@ -61,3 +61,5 @@ https://nodejs.org/en/
 npm init -y
 
 npm i @babel/core @babel/preset-env @babel/register
+
+https://nodejs.org/en/

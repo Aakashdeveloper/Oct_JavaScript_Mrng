@@ -59,4 +59,13 @@ add(1,2)
 arrow function es6
 ////
 
-var add = (a,b) => {return a+b}
+var add = (a,b) => {
+    var out
+    if(1){
+        out = "Hi"
+        return out
+    }else{
+        return out
+    }
+    
+}
